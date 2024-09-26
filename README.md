@@ -40,7 +40,19 @@ I began by importing the dataset into **Excel** and performing the following tas
 
 - **Handling Missing Data**: I cleaned up missing values and ensured consistency across the dataset.
 - **Data Transformation**: Manipulated columns such as **GDP per capita**, **Life Expectancy**, and **Population** for easier analysis.
+
+- <img width="426" alt="image" src="https://github.com/user-attachments/assets/d5ddff7a-021b-4e5c-bc1a-5621e6357260">
+
+
+- 
 - **Sorting and Filtering**: I sorted the data by **GDP per capita**, and filtered it to focus on the **top 20 countries** by various metrics.
+
+<img width="336" alt="image" src="https://github.com/user-attachments/assets/87930a5d-e752-4cf3-acc0-74caf7f6625f">
+
+
+
+- <img width="448" alt="image" src="https://github.com/user-attachments/assets/512befa0-7aba-4f1e-9577-ce104223d2c9">
+
 
 ### 2. Visualisation and Dashboard Creation (Tableau) 📊
 
